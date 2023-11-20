@@ -1,13 +1,5 @@
 # CoderGrayCat
 
-## Introduction
-👋 Hi, I'm CoderGrayCat! Welcome to my GitHub profile. I'm an AI enthusiast and passionate about exploring the field of artificial intelligence. This repository showcases my work and projects related to yoloV7.
-
-## Repository Overview
-This repository contains various projects and code related to different aspects of artificial intelligence. Here's a brief overview of the contents:
-
-- `extractLayerOutput.py`: This script performs object detection using the YOLOv7 model. It loads the YOLOv7 model from an ONNX file and uses it to detect objects in an input image. The detected objects are saved as separate output files.
-
 ## Getting Started
 To run the code in this repository, please follow the instructions below:
 
